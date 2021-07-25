@@ -5,7 +5,7 @@ const FormGroup = () => {
  return (
   <div className="form-group">
    <Label 
-   title="Twitch Clip Link"
+   title="insert your clip link"
    idFor="link"
    className="label"
    />

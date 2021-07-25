@@ -8,7 +8,7 @@ const Form = () => {
    (e) => e.preventDefault()
   }>
    <FormGroup />
-   <Button text="Save" />
+   <Button text="Save" className="button" />
   </form>
  )
 }
